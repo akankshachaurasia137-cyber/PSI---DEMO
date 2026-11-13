@@ -1,0 +1,6 @@
+{
+  "name": "Chase–Miao PSI Protocol Simulator",
+  "description": "Interactive educational visualization of the Chase–Miao (2020) Private Set Intersection protocol using Cuckoo and Simple hashing with oblivious PRF matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
